@@ -1,0 +1,13 @@
+[2022-02-13 15:23:48.153] [exthost] [info] Extension host with pid 293951 started
+[2022-02-13 15:23:48.153] [exthost] [info] Skipping acquiring lock for /home/gin/.config/Code/User/workspaceStorage/3bc645d0b98c59f8a86d66c800ce6f22.
+[2022-02-13 15:23:48.210] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-02-13 15:23:48.232] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-02-13 15:23:48.235] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-02-13 15:23:48.259] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-02-13 15:23:48.283] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-02-13 15:23:48.335] [exthost] [info] Eager extensions activated
+[2022-02-13 15:23:48.410] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-13 15:23:48.417] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-13 15:23:48.419] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-02-13 15:23:52.609] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-02-13 15:45:30.372] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer, startup: false, activationEvent: '*'

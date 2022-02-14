@@ -1,0 +1,29 @@
+[2022-02-13 15:27:36.953] [main] [info] update#setState idle
+[2022-02-13 15:27:37.014] [main] [info] ExtensionHostStarterWorker created
+[2022-02-13 15:27:38.344] [main] [info] Starting extension host with pid 300642 (fork() took 18 ms).
+[2022-02-13 15:27:38.347] [main] [info] ExtensionHostStarterWorker.start() took 23 ms.
+[2022-02-13 15:27:38.744] [main] [warning] Switching to using in-memory credential store instead because Keytar failed to load: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.secrets was not provided by any .service files
+[2022-02-13 15:28:06.957] [main] [info] update#setState checking for updates
+[2022-02-13 15:28:07.017] [main] [info] update#setState idle
+[2022-02-13 15:31:50.566] [main] [info] Starting extension host with pid 307691 (fork() took 10 ms).
+[2022-02-13 15:31:50.568] [main] [info] ExtensionHostStarterWorker.start() took 32 ms.
+[2022-02-13 15:32:08.586] [main] [info] Extension host with pid 300642 exited with code: 0, signal: null.
+[2022-02-13 15:45:59.994] [main] [info] Extension host with pid 307691 exited with code: 0, signal: null.
+[2022-02-13 15:46:01.161] [main] [info] Starting extension host with pid 331601 (fork() took 8 ms).
+[2022-02-13 15:46:01.163] [main] [info] ExtensionHostStarterWorker.start() took 12 ms.
+[2022-02-13 16:28:13.375] [main] [info] update#setState checking for updates
+[2022-02-13 16:28:13.705] [main] [info] update#setState idle
+[2022-02-13 17:28:13.474] [main] [info] update#setState checking for updates
+[2022-02-13 17:28:13.913] [main] [info] update#setState idle
+[2022-02-13 18:28:13.570] [main] [info] update#setState checking for updates
+[2022-02-13 18:28:13.907] [main] [info] update#setState idle
+[2022-02-13 19:28:13.609] [main] [info] update#setState checking for updates
+[2022-02-13 19:28:13.942] [main] [info] update#setState idle
+[2022-02-13 20:28:13.713] [main] [info] update#setState checking for updates
+[2022-02-13 20:28:13.982] [main] [info] update#setState idle
+[2022-02-13 21:28:13.803] [main] [info] update#setState checking for updates
+[2022-02-13 21:28:14.140] [main] [info] update#setState idle
+[2022-02-13 22:28:13.903] [main] [info] update#setState checking for updates
+[2022-02-13 22:28:14.182] [main] [info] update#setState idle
+[2022-02-13 23:01:44.231] [main] [info] Waiting for extension host with pid 331601 to exit.
+[2022-02-13 23:01:44.267] [main] [info] Extension host with pid 331601 exited with code: 0, signal: null.

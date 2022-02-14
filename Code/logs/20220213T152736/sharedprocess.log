@@ -1,0 +1,22 @@
+[2022-02-13 15:27:39.679] [sharedprocess] [info] Starting worker process with pid 300742 (type: fileWatcher, window: 1).
+[2022-02-13 15:31:50.638] [sharedprocess] [info] Starting worker process with pid 307699 (type: fileWatcher, window: 3).
+[2022-02-13 15:32:08.568] [sharedprocess] [info] Worker process with pid 300742 terminated normally (type: fileWatcher, window: 1).
+[2022-02-13 15:45:26.824] [sharedprocess] [info] Getting Manifest... coenraads.bracket-pair-colorizer
+[2022-02-13 15:45:26.853] [sharedprocess] [info] Installing extension: coenraads.bracket-pair-colorizer
+[2022-02-13 15:45:29.332] [sharedprocess] [info] Downloaded extension: coenraads.bracket-pair-colorizer /home/gin/.config/Code/CachedExtensionVSIXs/coenraads.bracket-pair-colorizer-1.0.62
+[2022-02-13 15:45:30.009] [sharedprocess] [info] Extracted extension to /home/gin/.vscode/extensions/.1e98da20-7db8-4c99-8e6a-a5fb24fb6b8f: coenraads.bracket-pair-colorizer
+[2022-02-13 15:45:30.021] [sharedprocess] [info] Renamed to /home/gin/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.62
+[2022-02-13 15:45:30.023] [sharedprocess] [info] Extracting completed. coenraads.bracket-pair-colorizer
+[2022-02-13 15:45:30.025] [sharedprocess] [info] Extension installed successfully: coenraads.bracket-pair-colorizer
+[2022-02-13 15:45:59.986] [sharedprocess] [info] Worker process with pid 307699 terminated normally (type: fileWatcher, window: 3).
+[2022-02-13 15:46:01.523] [sharedprocess] [info] Starting worker process with pid 331613 (type: fileWatcher, window: 3).
+[2022-02-13 19:50:30.717] [sharedprocess] [error] SharedProcess (worker, fileWatcher): Worker process with pid 331613 terminated by itself with code null, signal: SIGSEGV (type: fileWatcher, window: 3)
+[2022-02-13 19:50:30.769] [sharedprocess] [info] Starting worker process with pid 614928 (type: fileWatcher, window: 3).
+[2022-02-13 20:20:48.398] [sharedprocess] [error] SharedProcess (worker, fileWatcher): Worker process with pid 614928 terminated by itself with code null, signal: SIGSEGV (type: fileWatcher, window: 3)
+[2022-02-13 20:20:48.468] [sharedprocess] [info] Starting worker process with pid 649544 (type: fileWatcher, window: 3).
+[2022-02-13 20:50:54.090] [sharedprocess] [error] SharedProcess (worker, fileWatcher): Worker process with pid 649544 terminated by itself with code null, signal: SIGSEGV (type: fileWatcher, window: 3)
+[2022-02-13 20:50:54.132] [sharedprocess] [info] Starting worker process with pid 683905 (type: fileWatcher, window: 3).
+[2022-02-13 21:20:27.819] [sharedprocess] [error] SharedProcess (worker, fileWatcher): Worker process with pid 683905 terminated by itself with code null, signal: SIGSEGV (type: fileWatcher, window: 3)
+[2022-02-13 21:20:27.881] [sharedprocess] [info] Starting worker process with pid 717654 (type: fileWatcher, window: 3).
+[2022-02-13 21:50:13.258] [sharedprocess] [error] SharedProcess (worker, fileWatcher): Worker process with pid 717654 terminated by itself with code null, signal: SIGSEGV (type: fileWatcher, window: 3)
+[2022-02-13 21:50:13.323] [sharedprocess] [info] Starting worker process with pid 751623 (type: fileWatcher, window: 3).

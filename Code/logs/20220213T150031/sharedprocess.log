@@ -1,0 +1,10 @@
+[2022-02-13 15:00:35.324] [sharedprocess] [info] Starting worker process with pid 255052 (type: fileWatcher, window: 1).
+[2022-02-13 15:16:03.448] [sharedprocess] [info] Getting Manifest... wesbos.theme-cobalt2
+[2022-02-13 15:16:03.461] [sharedprocess] [info] Installing extension: wesbos.theme-cobalt2
+[2022-02-13 15:16:05.662] [sharedprocess] [info] Downloaded extension: wesbos.theme-cobalt2 /home/gin/.config/Code/CachedExtensionVSIXs/wesbos.theme-cobalt2-2.2.5
+[2022-02-13 15:16:05.842] [sharedprocess] [info] Extracted extension to /home/gin/.vscode/extensions/.8feed5c0-43d2-4c36-b0e6-0626f36ca1ca: wesbos.theme-cobalt2
+[2022-02-13 15:16:05.853] [sharedprocess] [info] Renamed to /home/gin/.vscode/extensions/wesbos.theme-cobalt2-2.2.5
+[2022-02-13 15:16:05.854] [sharedprocess] [info] Extracting completed. wesbos.theme-cobalt2
+[2022-02-13 15:16:05.856] [sharedprocess] [info] Extension installed successfully: wesbos.theme-cobalt2
+[2022-02-13 15:18:04.260] [sharedprocess] [info] Starting worker process with pid 284415 (type: fileWatcher, window: 3).
+[2022-02-13 15:23:06.653] [sharedprocess] [info] Worker process with pid 284415 terminated normally (type: fileWatcher, window: 3).

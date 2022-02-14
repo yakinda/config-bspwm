@@ -1,0 +1,11 @@
+[2022-02-13 15:31:50.586] [renderer3] [info] IExtensionHostStarter.start() took 56 ms.
+[2022-02-13 15:31:51.590] [renderer3] [error] [Extension Host] (node:307691) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2022-02-13 15:46:01.170] [renderer3] [info] IExtensionHostStarter.start() took 18 ms.
+[2022-02-13 15:46:01.946] [renderer3] [error] [Extension Host] (node:331601) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2022-02-13 19:50:30.760] [renderer3] [error] [File Watcher (universal)] restarting watcher after error: terminated by itself with code undefined, signal: SIGSEGV
+[2022-02-13 20:20:48.400] [renderer3] [error] [File Watcher (universal)] restarting watcher after error: terminated by itself with code undefined, signal: SIGSEGV
+[2022-02-13 20:50:54.092] [renderer3] [error] [File Watcher (universal)] restarting watcher after error: terminated by itself with code undefined, signal: SIGSEGV
+[2022-02-13 21:20:27.822] [renderer3] [error] [File Watcher (universal)] restarting watcher after error: terminated by itself with code undefined, signal: SIGSEGV
+[2022-02-13 21:50:13.260] [renderer3] [error] [File Watcher (universal)] restarting watcher after error: terminated by itself with code undefined, signal: SIGSEGV
